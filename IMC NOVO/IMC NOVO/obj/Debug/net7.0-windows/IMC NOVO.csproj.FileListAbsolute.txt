@@ -1,0 +1,18 @@
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.csproj.AssemblyReference.cache
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC_NOVO.Form1.resources
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC_NOVO.Properties.Resources.resources
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.csproj.GenerateResource.cache
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.AssemblyInfoInputs.cache
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.AssemblyInfo.cs
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.csproj.CoreCompileInputs.cache
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\bin\Debug\net7.0-windows\IMC NOVO.exe
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\bin\Debug\net7.0-windows\IMC NOVO.deps.json
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\bin\Debug\net7.0-windows\IMC NOVO.runtimeconfig.json
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\bin\Debug\net7.0-windows\IMC NOVO.dll
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\bin\Debug\net7.0-windows\IMC NOVO.pdb
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.dll
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\refint\IMC NOVO.dll
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.pdb
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\IMC NOVO.genruntimeconfig.cache
+C:\Fabrício CTDS\IMC NOVO\IMC NOVO\obj\Debug\net7.0-windows\ref\IMC NOVO.dll
